@@ -1,0 +1,3182 @@
+[
+  {
+    "aimag_id": 1,
+    "aimagname": "Архангай",
+    "sumname": "Булган",
+    "sindex": 502,
+    "sname": "Булган",
+    "lat": 47.31935,
+    "lon": 101.1092,
+    "rasterheight": 1923.4
+  },
+  {
+    "aimag_id": 1,
+    "aimagname": "Архангай",
+    "sumname": "Жаргалант",
+    "sindex": 503,
+    "sname": "Жаргалант",
+    "lat": 48.72473,
+    "lon": 100.7667,
+    "rasterheight": 1601.5
+  },
+  {
+    "aimag_id": 1,
+    "aimagname": "Архангай",
+    "sumname": "Өгийнуур",
+    "sindex": 505,
+    "sname": "Өгийнуур",
+    "lat": 47.6647,
+    "lon": 102.5479,
+    "rasterheight": 1348.4
+  },
+  {
+    "aimag_id": 1,
+    "aimagname": "Архангай",
+    "sumname": "Өлзийт",
+    "sindex": 506,
+    "sname": "Өлзийт",
+    "lat": 48.10273,
+    "lon": 102.5542,
+    "rasterheight": 1297.6
+  },
+  {
+    "aimag_id": 1,
+    "aimagname": "Архангай",
+    "sumname": "Өндөр-Улаан",
+    "sindex": 507,
+    "sname": "Өндөр-Улаан",
+    "lat": 48.04631,
+    "lon": 100.5057,
+    "rasterheight": 1935.3
+  },
+  {
+    "aimag_id": 1,
+    "aimagname": "Архангай",
+    "sumname": "Хайрхан",
+    "sindex": 509,
+    "sname": "Хайрхан",
+    "lat": 48.61252,
+    "lon": 101.9367,
+    "rasterheight": 1351.6
+  },
+  {
+    "aimag_id": 1,
+    "aimagname": "Архангай",
+    "sumname": "Хангай",
+    "sindex": 510,
+    "sname": "Хангай",
+    "lat": 47.85949,
+    "lon": 99.4396,
+    "rasterheight": 2133.7
+  },
+  {
+    "aimag_id": 1,
+    "aimagname": "Архангай",
+    "sumname": "Хашаат",
+    "sindex": 511,
+    "sname": "Хашаат",
+    "lat": 47.4473,
+    "lon": 103.1408,
+    "rasterheight": 1292.4
+  },
+  {
+    "aimag_id": 1,
+    "aimagname": "Архангай",
+    "sumname": "Хотонт",
+    "sindex": 512,
+    "sname": "Хотонт",
+    "lat": 47.36365,
+    "lon": 102.4646,
+    "rasterheight": 1455.0
+  },
+  {
+    "aimag_id": 1,
+    "aimagname": "Архангай",
+    "sumname": "Цэцэрлэг",
+    "sindex": 514,
+    "sname": "Цэцэрлэг",
+    "lat": 48.88559,
+    "lon": 101.2373,
+    "rasterheight": 1714.2
+  },
+  {
+    "aimag_id": 1,
+    "aimagname": "Архангай",
+    "sumname": "Чулуут",
+    "sindex": 515,
+    "sname": "Чулуут",
+    "lat": 47.53926,
+    "lon": 100.2317,
+    "rasterheight": 2030.0
+  },
+  {
+    "aimag_id": 1,
+    "aimagname": "Архангай",
+    "sumname": "Цахир",
+    "sindex": 517,
+    "sname": "Цахир",
+    "lat": 48.10575,
+    "lon": 99.1352,
+    "rasterheight": 2116.1
+  },
+  {
+    "aimag_id": 2,
+    "aimagname": "Баянхонгор",
+    "sumname": "Баянбулаг",
+    "sindex": 275,
+    "sname": "Баянбулаг",
+    "lat": 46.81206,
+    "lon": 98.08694,
+    "rasterheight": 2257.0
+  },
+  {
+    "aimag_id": 2,
+    "aimagname": "Баянхонгор",
+    "sumname": "Жаргалант",
+    "sindex": 276,
+    "sname": "Байдраг",
+    "lat": 47.01606,
+    "lon": 99.14578,
+    "rasterheight": 2026.0
+  },
+  {
+    "aimag_id": 2,
+    "aimagname": "Баянхонгор",
+    "sumname": "Галуут",
+    "sindex": 284,
+    "sname": "Галуут",
+    "lat": 46.70206,
+    "lon": 100.14282,
+    "rasterheight": 2124.0
+  },
+  {
+    "aimag_id": 2,
+    "aimagname": "Баянхонгор",
+    "sumname": "Баянхонгор",
+    "sindex": 287,
+    "sname": "Баянхонгор",
+    "lat": 46.17379,
+    "lon": 100.7102,
+    "rasterheight": 1858.0
+  },
+  {
+    "aimag_id": 2,
+    "aimagname": "Баянхонгор",
+    "sumname": "Баянцагаан",
+    "sindex": 326,
+    "sname": "Баянцагаан",
+    "lat": 45.012,
+    "lon": 98.9333,
+    "rasterheight": 2015.0
+  },
+  {
+    "aimag_id": 2,
+    "aimagname": "Баянхонгор",
+    "sumname": "Шинэжинст",
+    "sindex": 329,
+    "sname": "Жинст",
+    "lat": 44.54559,
+    "lon": 99.10551,
+    "rasterheight": 2229.0
+  },
+  {
+    "aimag_id": 2,
+    "aimagname": "Баянхонгор",
+    "sumname": "Богд",
+    "sindex": 334,
+    "sname": "Хориулт",
+    "lat": 45.19382,
+    "lon": 100.7772,
+    "rasterheight": 1274.0
+  },
+  {
+    "aimag_id": 2,
+    "aimagname": "Баянхонгор",
+    "sumname": "Баянговь",
+    "sindex": 337,
+    "sname": "Баянговь",
+    "lat": 45.41408,
+    "lon": 100.5717,
+    "rasterheight": 1612.0
+  },
+  {
+    "aimag_id": 2,
+    "aimagname": "Баянхонгор",
+    "sumname": "Шинэжинст",
+    "sindex": 366,
+    "sname": "Эхийнгол",
+    "lat": 43.40147,
+    "lon": 99.00273,
+    "rasterheight": 970.0
+  },
+  {
+    "aimag_id": 2,
+    "aimagname": "Баянхонгор",
+    "sumname": "Баацагаан",
+    "sindex": 545,
+    "sname": "Баянсайр",
+    "lat": 45.55706,
+    "lon": 99.429,
+    "rasterheight": 1327.0
+  },
+  {
+    "aimag_id": 2,
+    "aimagname": "Баянхонгор",
+    "sumname": "Гурванбулаг",
+    "sindex": 546,
+    "sname": "Гурванбулаг",
+    "lat": 47.21679,
+    "lon": 98.56803,
+    "rasterheight": 2424.0
+  },
+  {
+    "aimag_id": 2,
+    "aimagname": "Баянхонгор",
+    "sumname": "Баянлиг",
+    "sindex": 548,
+    "sname": "Баянлиг",
+    "lat": 44.54016,
+    "lon": 100.8284,
+    "rasterheight": 1330.0
+  },
+  {
+    "aimag_id": 2,
+    "aimagname": "Баянхонгор",
+    "sumname": "Баян-Өндөр",
+    "sindex": 550,
+    "sname": "Баян-Өндөр",
+    "lat": 44.8002,
+    "lon": 98.65219,
+    "rasterheight": 2381.0
+  },
+  {
+    "aimag_id": 2,
+    "aimagname": "Баянхонгор",
+    "sumname": "Бөмбөгөр",
+    "sindex": 553,
+    "sname": "Бөмбөгөр",
+    "lat": 46.21111,
+    "lon": 99.60483,
+    "rasterheight": 2017.0
+  },
+  {
+    "aimag_id": 2,
+    "aimagname": "Баянхонгор",
+    "sumname": "Бууцагаан",
+    "sindex": 554,
+    "sname": "Бууцагаан",
+    "lat": 46.17702,
+    "lon": 98.69837,
+    "rasterheight": 1225.0
+  },
+  {
+    "aimag_id": 2,
+    "aimagname": "Баянхонгор",
+    "sumname": "Жинст",
+    "sindex": 555,
+    "sname": "Бодь",
+    "lat": 45.41408,
+    "lon": 100.5717,
+    "rasterheight": 1400.0
+  },
+  {
+    "aimag_id": 2,
+    "aimagname": "Баянхонгор",
+    "sumname": "Хүрээмарал",
+    "sindex": 558,
+    "sname": "Хүрээмарал",
+    "lat": 46.41932,
+    "lon": 98.28856,
+    "rasterheight": 2080.0
+  },
+  {
+    "aimag_id": 2,
+    "aimagname": "Баянхонгор",
+    "sumname": "Эрдэнэцогт",
+    "sindex": 559,
+    "sname": "Эрдэнэцогт",
+    "lat": 46.4195,
+    "lon": 100.8308,
+    "rasterheight": 2030.0
+  },
+  {
+    "aimag_id": 2,
+    "aimagname": "Баянхонгор",
+    "sumname": "Баянхонгор",
+    "sindex": 560,
+    "sname": "Шаргалжуут",
+    "lat": 46.41897,
+    "lon": 100.8455,
+    "rasterheight": 2132.0
+  },
+  {
+    "aimag_id": 3,
+    "aimagname": "Баян-Өлгий",
+    "sumname": "Баяннуур",
+    "sindex": 200,
+    "sname": "Баяннуур",
+    "lat": 48.93934,
+    "lon": 91.16133,
+    "rasterheight": 1333.0
+  },
+  {
+    "aimag_id": 3,
+    "aimagname": "Баян-Өлгий",
+    "sumname": "Ногооннуур",
+    "sindex": 210,
+    "sname": "Ногооннуур",
+    "lat": 49.61529,
+    "lon": 90.24335,
+    "rasterheight": 1474.0
+  },
+  {
+    "aimag_id": 3,
+    "aimagname": "Баян-Өлгий",
+    "sumname": "Өлгий",
+    "sindex": 214,
+    "sname": "Өлгий",
+    "lat": 48.97962,
+    "lon": 89.93815,
+    "rasterheight": 1720.0
+  },
+  {
+    "aimag_id": 3,
+    "aimagname": "Баян-Өлгий",
+    "sumname": "Алтай",
+    "sindex": 217,
+    "sname": "Ялалт",
+    "lat": 48.29928,
+    "lon": 89.51491,
+    "rasterheight": 2137.0
+  },
+  {
+    "aimag_id": 3,
+    "aimagname": "Баян-Өлгий",
+    "sumname": "Дэлүүн",
+    "sindex": 261,
+    "sname": "Дэлүүн",
+    "lat": 47.8626,
+    "lon": 90.69704,
+    "rasterheight": 2150.0
+  },
+  {
+    "aimag_id": 3,
+    "aimagname": "Баян-Өлгий",
+    "sumname": "Булган",
+    "sindex": 263,
+    "sname": "Дөчинжил",
+    "lat": 46.92988,
+    "lon": 91.08156,
+    "rasterheight": 1933.0
+  },
+  {
+    "aimag_id": 3,
+    "aimagname": "Баян-Өлгий",
+    "sumname": "Буянт",
+    "sindex": 529,
+    "sname": "Буянт",
+    "lat": 48.581,
+    "lon": 89.54357,
+    "rasterheight": 1976.0
+  },
+  {
+    "aimag_id": 3,
+    "aimagname": "Баян-Өлгий",
+    "sumname": "Сагсай",
+    "sindex": 530,
+    "sname": "Сагсай",
+    "lat": 48.90704,
+    "lon": 89.64449,
+    "rasterheight": 1760.0
+  },
+  {
+    "aimag_id": 3,
+    "aimagname": "Баян-Өлгий",
+    "sumname": "Толбо",
+    "sindex": 531,
+    "sname": "Толбо",
+    "lat": 48.41058,
+    "lon": 90.29956,
+    "rasterheight": 2114.0
+  },
+  {
+    "aimag_id": 3,
+    "aimagname": "Баян-Өлгий",
+    "sumname": "Улаанхус",
+    "sindex": 532,
+    "sname": "Улаанхус",
+    "lat": 49.04058,
+    "lon": 89.43118,
+    "rasterheight": 1775.0
+  },
+  {
+    "aimag_id": 3,
+    "aimagname": "Баян-Өлгий",
+    "sumname": "Цэнгэл",
+    "sindex": 533,
+    "sname": "Цэнгэл",
+    "lat": 48.9442,
+    "lon": 89.14675,
+    "rasterheight": 1897.0
+  },
+  {
+    "aimag_id": 3,
+    "aimagname": "Баян-Өлгий",
+    "sumname": "Сагсай",
+    "sindex": 534,
+    "sname": "Даян",
+    "lat": 48.26667,
+    "lon": 88.86667,
+    "rasterheight": 2230.0
+  },
+  {
+    "aimag_id": 4,
+    "aimagname": "Булган",
+    "sumname": "Тэшиг",
+    "sindex": 205,
+    "sname": "Тэшиг",
+    "lat": 49.93546,
+    "lon": 102.6671,
+    "rasterheight": 1019.9
+  },
+  {
+    "aimag_id": 4,
+    "aimagname": "Булган",
+    "sumname": "Хутаг-Өндөр",
+    "sindex": 232,
+    "sname": "Хутаг",
+    "lat": 49.39368,
+    "lon": 102.7091,
+    "rasterheight": 912.4
+  },
+  {
+    "aimag_id": 4,
+    "aimagname": "Булган",
+    "sumname": "Ингэттолгой",
+    "sindex": 233,
+    "sname": "Ингэттолгой",
+    "lat": 49.45553,
+    "lon": 103.9776,
+    "rasterheight": 800.5
+  },
+  {
+    "aimag_id": 4,
+    "aimagname": "Булган",
+    "sumname": "Могод",
+    "sindex": 235,
+    "sname": "Могод",
+    "lat": 48.28007,
+    "lon": 102.98,
+    "rasterheight": 1439.3
+  },
+  {
+    "aimag_id": 4,
+    "aimagname": "Булган",
+    "sumname": "Булган",
+    "sindex": 239,
+    "sname": "Булган",
+    "lat": 48.81687,
+    "lon": 103.5171,
+    "rasterheight": 1219.4
+  },
+  {
+    "aimag_id": 4,
+    "aimagname": "Булган",
+    "sumname": "Гурванбулаг",
+    "sindex": 283,
+    "sname": "Гурванбулаг",
+    "lat": 47.74457,
+    "lon": 103.4809,
+    "rasterheight": 1092.6
+  },
+  {
+    "aimag_id": 4,
+    "aimagname": "Булган",
+    "sumname": "Баян-Агт",
+    "sindex": 571,
+    "sname": "Баян-Агт",
+    "lat": 49.04133,
+    "lon": 102.0914,
+    "rasterheight": 1523.6
+  },
+  {
+    "aimag_id": 4,
+    "aimagname": "Булган",
+    "sumname": "Бугат",
+    "sindex": 572,
+    "sname": "Бугат",
+    "lat": 49.05929,
+    "lon": 103.6738,
+    "rasterheight": 1221.6
+  },
+  {
+    "aimag_id": 4,
+    "aimagname": "Булган",
+    "sumname": "Бүрэгхангай",
+    "sindex": 573,
+    "sname": "Бүрэгхангай",
+    "lat": 48.25189,
+    "lon": 103.868,
+    "rasterheight": 1291.1
+  },
+  {
+    "aimag_id": 4,
+    "aimagname": "Булган",
+    "sumname": "Дашинчилэн",
+    "sindex": 574,
+    "sname": "Дашинчилэн",
+    "lat": 47.8473,
+    "lon": 104.0436,
+    "rasterheight": 1018.1
+  },
+  {
+    "aimag_id": 4,
+    "aimagname": "Булган",
+    "sumname": "Орхон",
+    "sindex": 576,
+    "sname": "Орхон",
+    "lat": 48.62484,
+    "lon": 103.5486,
+    "rasterheight": 1066.5
+  },
+  {
+    "aimag_id": 4,
+    "aimagname": "Булган",
+    "sumname": "Сайхан",
+    "sindex": 577,
+    "sname": "Сайхан",
+    "lat": 48.6651,
+    "lon": 102.6177,
+    "rasterheight": 1480.0
+  },
+  {
+    "aimag_id": 4,
+    "aimagname": "Булган",
+    "sumname": "Хангал",
+    "sindex": 580,
+    "sname": "Хангал",
+    "lat": 49.32087,
+    "lon": 104.3797,
+    "rasterheight": 1040.7
+  },
+  {
+    "aimag_id": 4,
+    "aimagname": "Булган",
+    "sumname": "Хишиг-өндөр",
+    "sindex": 581,
+    "sname": "Хишиг-өндөр",
+    "lat": 48.29666,
+    "lon": 103.4271,
+    "rasterheight": 1308.7
+  },
+  {
+    "aimag_id": 4,
+    "aimagname": "Булган",
+    "sumname": "Баяннуур",
+    "sindex": 582,
+    "sname": "Баяннуур",
+    "lat": 47.83125,
+    "lon": 104.4487,
+    "rasterheight": 969.6
+  },
+  {
+    "aimag_id": 4,
+    "aimagname": "Булган",
+    "sumname": "Рашаант",
+    "sindex": 583,
+    "sname": "Рашаант",
+    "lat": 47.37286,
+    "lon": 103.9483,
+    "rasterheight": 1365.6
+  },
+  {
+    "aimag_id": 5,
+    "aimagname": "Говь-Алтай",
+    "sumname": "Хөхморьт",
+    "sindex": 262,
+    "sname": "Хөхморьт",
+    "lat": 47.35494,
+    "lon": 94.5223,
+    "rasterheight": 1445.0
+  },
+  {
+    "aimag_id": 5,
+    "aimagname": "Говь-Алтай",
+    "sumname": "Тонхил",
+    "sindex": 266,
+    "sname": "Тонхил",
+    "lat": 46.3128,
+    "lon": 93.9018,
+    "rasterheight": 2221.0
+  },
+  {
+    "aimag_id": 5,
+    "aimagname": "Говь-Алтай",
+    "sumname": "Бугат",
+    "sindex": 268,
+    "sname": "Бугат",
+    "lat": 45.5608,
+    "lon": 94.361,
+    "rasterheight": 2147.0
+  },
+  {
+    "aimag_id": 5,
+    "aimagname": "Говь-Алтай",
+    "sumname": "Есөнбулаг",
+    "sindex": 277,
+    "sname": "Алтай",
+    "lat": 46.37616,
+    "lon": 96.2387,
+    "rasterheight": 2180.0
+  },
+  {
+    "aimag_id": 5,
+    "aimagname": "Говь-Алтай",
+    "sumname": "Аж",
+    "sindex": 324,
+    "sname": "Богд",
+    "lat": 44.61916,
+    "lon": 94.9237,
+    "rasterheight": 1425.0
+  },
+  {
+    "aimag_id": 5,
+    "aimagname": "Говь-Алтай",
+    "sumname": "Тоорой",
+    "sindex": 325,
+    "sname": "Тоорой",
+    "lat": 44.92397,
+    "lon": 96.7533,
+    "rasterheight": 1179.0
+  },
+  {
+    "aimag_id": 5,
+    "aimagname": "Говь-Алтай",
+    "sumname": "Баян-Уул",
+    "sindex": 591,
+    "sname": "Баян-Уул",
+    "lat": 46.99871,
+    "lon": 95.201,
+    "rasterheight": 1841.0
+  },
+  {
+    "aimag_id": 5,
+    "aimagname": "Говь-Алтай",
+    "sumname": "Бигэр",
+    "sindex": 592,
+    "sname": "Бигэр",
+    "lat": 45.71664,
+    "lon": 97.1671,
+    "rasterheight": 1359.0
+  },
+  {
+    "aimag_id": 5,
+    "aimagname": "Говь-Алтай",
+    "sumname": "Дарви",
+    "sindex": 593,
+    "sname": "Дарви",
+    "lat": 46.47057,
+    "lon": 94.1008,
+    "rasterheight": 1624.0
+  },
+  {
+    "aimag_id": 5,
+    "aimagname": "Говь-Алтай",
+    "sumname": "Дэлгэр",
+    "sindex": 594,
+    "sname": "Дэлгэр",
+    "lat": 46.35315,
+    "lon": 97.3637,
+    "rasterheight": 1788.0
+  },
+  {
+    "aimag_id": 5,
+    "aimagname": "Говь-Алтай",
+    "sumname": "Жаргалан",
+    "sindex": 595,
+    "sname": "Жаргалан",
+    "lat": 46.98446,
+    "lon": 95.9208,
+    "rasterheight": 1533.0
+  },
+  {
+    "aimag_id": 5,
+    "aimagname": "Говь-Алтай",
+    "sumname": "Тайшир",
+    "sindex": 596,
+    "sname": "Тайшир",
+    "lat": 46.71494,
+    "lon": 96.5214,
+    "rasterheight": 1643.0
+  },
+  {
+    "aimag_id": 5,
+    "aimagname": "Говь-Алтай",
+    "sumname": "Төгрөг",
+    "sindex": 597,
+    "sname": "Төгрөг",
+    "lat": 45.83113,
+    "lon": 94.1384,
+    "rasterheight": 1701.0
+  },
+  {
+    "aimag_id": 5,
+    "aimagname": "Говь-Алтай",
+    "sumname": "Халиун",
+    "sindex": 598,
+    "sname": "Халиун",
+    "lat": 45.92736,
+    "lon": 96.1583,
+    "rasterheight": 1444.0
+  },
+  {
+    "aimag_id": 5,
+    "aimagname": "Говь-Алтай",
+    "sumname": "Цогт",
+    "sindex": 600,
+    "sname": "Цогт",
+    "lat": 45.35522,
+    "lon": 96.6356,
+    "rasterheight": 2317.0
+  },
+  {
+    "aimag_id": 5,
+    "aimagname": "Говь-Алтай",
+    "sumname": "Цээл",
+    "sindex": 601,
+    "sname": "Цээл",
+    "lat": 45.56819,
+    "lon": 95.8734,
+    "rasterheight": 2084.0
+  },
+  {
+    "aimag_id": 5,
+    "aimagname": "Говь-Алтай",
+    "sumname": "Чандмань",
+    "sindex": 602,
+    "sname": "Чандмань",
+    "lat": 45.33034,
+    "lon": 97.9884,
+    "rasterheight": 2287.0
+  },
+  {
+    "aimag_id": 5,
+    "aimagname": "Говь-Алтай",
+    "sumname": "Шарга",
+    "sindex": 603,
+    "sname": "Шарга",
+    "lat": 46.27091,
+    "lon": 95.267,
+    "rasterheight": 1018.0
+  },
+  {
+    "aimag_id": 5,
+    "aimagname": "Говь-Алтай",
+    "sumname": "Эрдэнэ",
+    "sindex": 604,
+    "sname": "Эрдэнэ",
+    "lat": 45.1645,
+    "lon": 97.7013,
+    "rasterheight": 2450.0
+  },
+  {
+    "aimag_id": 5,
+    "aimagname": "Говь-Алтай",
+    "sumname": "Гуулин",
+    "sindex": 605,
+    "sname": "Гуулин",
+    "lat": 46.56885,
+    "lon": 97.2932,
+    "rasterheight": 1825.0
+  },
+  {
+    "aimag_id": 6,
+    "aimagname": "ГовьСүмбэр",
+    "sumname": "Сүмбэр",
+    "sindex": 298,
+    "sname": "Чойр",
+    "lat": 46.35011,
+    "lon": 108.3747,
+    "rasterheight": 1286.0
+  },
+  {
+    "aimag_id": 7,
+    "aimagname": "Дархан-Уул",
+    "sumname": "Дархан",
+    "sindex": 244,
+    "sname": "Дархан",
+    "lat": 49.49024,
+    "lon": 105.9398,
+    "rasterheight": 917.5
+  },
+  {
+    "aimag_id": 7,
+    "aimagname": "Дархан-Уул",
+    "sumname": "Шарын гол",
+    "sindex": 251,
+    "sname": "Шаазгайт",
+    "lat": 49.24459,
+    "lon": 106.4118,
+    "rasterheight": 917.5
+  },
+  {
+    "aimag_id": 7,
+    "aimagname": "Дархан-Уул",
+    "sumname": "Хонгор",
+    "sindex": 931,
+    "sname": "Хонгор",
+    "lat": 49.30897,
+    "lon": 105.9239,
+    "rasterheight": 720.6
+  },
+  {
+    "aimag_id": 7,
+    "aimagname": "Дархан-Уул",
+    "sumname": "Орхон",
+    "sindex": 932,
+    "sname": "Шарын гол",
+    "lat": 49.84664,
+    "lon": 106.1496,
+    "rasterheight": 639.6
+  },
+  {
+    "aimag_id": 8,
+    "aimagname": "Дорноговь",
+    "sumname": "Мандах",
+    "sindex": 348,
+    "sname": "Мандах",
+    "lat": 44.40138,
+    "lon": 108.24933,
+    "rasterheight": 1308.5
+  },
+  {
+    "aimag_id": 8,
+    "aimagname": "Дорноговь",
+    "sumname": "Дэлгэрэх",
+    "sindex": 351,
+    "sname": "Дэлгэрэх",
+    "lat": 45.79557,
+    "lon": 111.2106,
+    "rasterheight": 1064.5
+  },
+  {
+    "aimag_id": 8,
+    "aimagname": "Дорноговь",
+    "sumname": "Сайншанд",
+    "sindex": 354,
+    "sname": "Сайншанд",
+    "lat": 44.87807,
+    "lon": 110.1192,
+    "rasterheight": 937.9
+  },
+  {
+    "aimag_id": 8,
+    "aimagname": "Дорноговь",
+    "sumname": "Erdene",
+    "sindex": 357,
+    "sname": "Улаан-Уул",
+    "lat": 44.44377,
+    "lon": 111.08596,
+    "rasterheight": 992.0
+  },
+  {
+    "aimag_id": 8,
+    "aimagname": "Дорноговь",
+    "sumname": "Замын-Үүд",
+    "sindex": 358,
+    "sname": "Замын-Үүд",
+    "lat": 43.71375,
+    "lon": 111.9042,
+    "rasterheight": 963.9
+  },
+  {
+    "aimag_id": 8,
+    "aimagname": "Дорноговь",
+    "sumname": "Хөвсгөл",
+    "sindex": 386,
+    "sname": "Хөвсгөл",
+    "lat": 43.60447,
+    "lon": 109.63622,
+    "rasterheight": 998.3
+  },
+  {
+    "aimag_id": 8,
+    "aimagname": "Дорноговь",
+    "sumname": "Айраг",
+    "sindex": 616,
+    "sname": "Айраг",
+    "lat": 45.80107,
+    "lon": 109.31747,
+    "rasterheight": 1055.2
+  },
+  {
+    "aimag_id": 8,
+    "aimagname": "Дорноговь",
+    "sumname": "Алтанширээ",
+    "sindex": 617,
+    "sname": "Алтанширээ",
+    "lat": 45.54482,
+    "lon": 110.46878,
+    "rasterheight": 969.8
+  },
+  {
+    "aimag_id": 8,
+    "aimagname": "Дорноговь",
+    "sumname": "Иххэт",
+    "sindex": 620,
+    "sname": "Иххэт",
+    "lat": 46.38191,
+    "lon": 110.09695,
+    "rasterheight": 1204.2
+  },
+  {
+    "aimag_id": 8,
+    "aimagname": "Дорноговь",
+    "sumname": "Өргөн",
+    "sindex": 621,
+    "sname": "Өргөн",
+    "lat": 44.73051,
+    "lon": 110.7822,
+    "rasterheight": 981.0
+  },
+  {
+    "aimag_id": 8,
+    "aimagname": "Дорноговь",
+    "sumname": "Сайхандулаан",
+    "sindex": 622,
+    "sname": "Сайхандулаан",
+    "lat": 44.69405,
+    "lon": 109.0168,
+    "rasterheight": 1263.7
+  },
+  {
+    "aimag_id": 8,
+    "aimagname": "Дорноговь",
+    "sumname": "Улаанбадрах",
+    "sindex": 623,
+    "sname": "Улаанбадрах",
+    "lat": 43.87498,
+    "lon": 110.4256,
+    "rasterheight": 992.85
+  },
+  {
+    "aimag_id": 8,
+    "aimagname": "Дорноговь",
+    "sumname": "Хатанбулаг",
+    "sindex": 624,
+    "sname": "Хатанбулаг",
+    "lat": 43.15619,
+    "lon": 109.1435,
+    "rasterheight": 1135.4
+  },
+  {
+    "aimag_id": 9,
+    "aimagname": "Дорнод",
+    "sumname": "Баян-Уул",
+    "sindex": 255,
+    "sname": "Онон",
+    "lat": 49.11418,
+    "lon": 112.6581,
+    "rasterheight": 894.61
+  },
+  {
+    "aimag_id": 9,
+    "aimagname": "Дорнод",
+    "sumname": "Дашбалбар",
+    "sindex": 256,
+    "sname": "Дашбалбар",
+    "lat": 49.55091,
+    "lon": 114.4042,
+    "rasterheight": 706.88
+  },
+  {
+    "aimag_id": 9,
+    "aimagname": "Дорнод",
+    "sumname": "Хэрлэн",
+    "sindex": 259,
+    "sname": "Чойбалсан",
+    "lat": 48.08123,
+    "lon": 114.5375,
+    "rasterheight": 746.48
+  },
+  {
+    "aimag_id": 9,
+    "aimagname": "Дорнод",
+    "sumname": "Халхгол",
+    "sindex": 313,
+    "sname": "Халхгол",
+    "lat": 47.63015,
+    "lon": 118.6221,
+    "rasterheight": 687.27
+  },
+  {
+    "aimag_id": 9,
+    "aimagname": "Дорнод",
+    "sumname": "Матад",
+    "sindex": 314,
+    "sname": "Матад",
+    "lat": 46.95508,
+    "lon": 115.2964,
+    "rasterheight": 903.35
+  },
+  {
+    "aimag_id": 9,
+    "aimagname": "Дорнод",
+    "sumname": "Баяндун",
+    "sindex": 636,
+    "sname": "Баяндун",
+    "lat": 49.24637,
+    "lon": 113.3698,
+    "rasterheight": 947.22
+  },
+  {
+    "aimag_id": 9,
+    "aimagname": "Дорнод",
+    "sumname": "Баянтүмэн",
+    "sindex": 637,
+    "sname": "Баянтүмэн",
+    "lat": 48.05374,
+    "lon": 114.3605,
+    "rasterheight": 756.06
+  },
+  {
+    "aimag_id": 9,
+    "aimagname": "Дорнод",
+    "sumname": "Чойбалсан",
+    "sindex": 638,
+    "sname": "Хэрлэн",
+    "lat": 48.44192,
+    "lon": 114.8803,
+    "rasterheight": 747.0
+  },
+  {
+    "aimag_id": 9,
+    "aimagname": "Дорнод",
+    "sumname": "Булган",
+    "sindex": 639,
+    "sname": "Булган",
+    "lat": 47.99972,
+    "lon": 113.928,
+    "rasterheight": 788.11
+  },
+  {
+    "aimag_id": 9,
+    "aimagname": "Дорнод",
+    "sumname": "Гурванзагал",
+    "sindex": 640,
+    "sname": "Гурванзагал",
+    "lat": 49.14508,
+    "lon": 114.8757,
+    "rasterheight": 711.63
+  },
+  {
+    "aimag_id": 9,
+    "aimagname": "Дорнод",
+    "sumname": "Сэргэлэн",
+    "sindex": 641,
+    "sname": "Сэргэлэн",
+    "lat": 48.51008,
+    "lon": 114.0225,
+    "rasterheight": 759.26
+  },
+  {
+    "aimag_id": 9,
+    "aimagname": "Дорнод",
+    "sumname": "Халхгол",
+    "sindex": 642,
+    "sname": "Халхгол",
+    "lat": 47.99013,
+    "lon": 118.1087,
+    "rasterheight": 687.0
+  },
+  {
+    "aimag_id": 9,
+    "aimagname": "Дорнод",
+    "sumname": "Хөлөнбуйр",
+    "sindex": 643,
+    "sname": "Хөлөнбуйр",
+    "lat": 47.92366,
+    "lon": 112.9544,
+    "rasterheight": 856.27
+  },
+  {
+    "aimag_id": 9,
+    "aimagname": "Дорнод",
+    "sumname": "Цагаан-овоо",
+    "sindex": 644,
+    "sname": "Цагаан-овоо",
+    "lat": 48.56809,
+    "lon": 113.2369,
+    "rasterheight": 862.45
+  },
+  {
+    "aimag_id": 9,
+    "aimagname": "Дорнод",
+    "sumname": "Чулуунхороот",
+    "sindex": 645,
+    "sname": "Эрээнцав",
+    "lat": 49.86676,
+    "lon": 115.7007,
+    "rasterheight": 616.53
+  },
+  {
+    "aimag_id": 10,
+    "aimagname": "Дундговь",
+    "sumname": "Цагаандэлгэр",
+    "sindex": 300,
+    "sname": "Цагаандэлгэр",
+    "lat": 46.40522,
+    "lon": 107.6373,
+    "rasterheight": 1364.0
+  },
+  {
+    "aimag_id": 10,
+    "aimagname": "Дундговь",
+    "sumname": "Эрдэнэдалай",
+    "sindex": 333,
+    "sname": "Эрдэнэдалай",
+    "lat": 45.99875,
+    "lon": 104.9382,
+    "rasterheight": 1377.0
+  },
+  {
+    "aimag_id": 10,
+    "aimagname": "Дундговь",
+    "sumname": "Сайхан-Овоо",
+    "sindex": 336,
+    "sname": "Сайхан-Овоо",
+    "lat": 45.46118,
+    "lon": 103.9001,
+    "rasterheight": 1316.0
+  },
+  {
+    "aimag_id": 10,
+    "aimagname": "Дундговь",
+    "sumname": "Сайнцагаан",
+    "sindex": 341,
+    "sname": "Мандалговь",
+    "lat": 45.74304,
+    "lon": 106.2642,
+    "rasterheight": 1393.0
+  },
+  {
+    "aimag_id": 10,
+    "aimagname": "Дундговь",
+    "sumname": "Говь-Угтаал",
+    "sindex": 342,
+    "sname": "Говь-Угтаал",
+    "lat": 46.04391,
+    "lon": 107.4854,
+    "rasterheight": 1481.0
+  },
+  {
+    "aimag_id": 10,
+    "aimagname": "Дундговь",
+    "sumname": "Гурвансайхан",
+    "sindex": 345,
+    "sname": "Гурвансайхан",
+    "lat": 45.52828,
+    "lon": 107.0446,
+    "rasterheight": 1165.0
+  },
+  {
+    "aimag_id": 10,
+    "aimagname": "Дундговь",
+    "sumname": "Адаацаг",
+    "sindex": 656,
+    "sname": "Адаацаг",
+    "lat": 46.39198,
+    "lon": 105.7298,
+    "rasterheight": 1481.0
+  },
+  {
+    "aimag_id": 10,
+    "aimagname": "Дундговь",
+    "sumname": "Баянжаргалан",
+    "sindex": 657,
+    "sname": "Баянжаргалан",
+    "lat": 45.75672,
+    "lon": 108.0003,
+    "rasterheight": 1240.0
+  },
+  {
+    "aimag_id": 10,
+    "aimagname": "Дундговь",
+    "sumname": "Дэлгэрхангай",
+    "sindex": 659,
+    "sname": "Дэлгэрхангай",
+    "lat": 45.23949,
+    "lon": 104.797,
+    "rasterheight": 1472.0
+  },
+  {
+    "aimag_id": 10,
+    "aimagname": "Дундговь",
+    "sumname": "Дэрэн",
+    "sindex": 661,
+    "sname": "Дэрэн",
+    "lat": 46.20867,
+    "lon": 106.7147,
+    "rasterheight": 1292.0
+  },
+  {
+    "aimag_id": 10,
+    "aimagname": "Дундговь",
+    "sumname": "Луус",
+    "sindex": 662,
+    "sname": "Луус",
+    "lat": 45.51667,
+    "lon": 105.7606,
+    "rasterheight": 1443.0
+  },
+  {
+    "aimag_id": 10,
+    "aimagname": "Дундговь",
+    "sumname": "Өлзийт",
+    "sindex": 663,
+    "sname": "Өлзийт",
+    "lat": 44.93904,
+    "lon": 106.3199,
+    "rasterheight": 1244.0
+  },
+  {
+    "aimag_id": 10,
+    "aimagname": "Дундговь",
+    "sumname": "Өндөршил",
+    "sindex": 664,
+    "sname": "Өндөршил",
+    "lat": 45.23249,
+    "lon": 108.2794,
+    "rasterheight": 1175.0
+  },
+  {
+    "aimag_id": 10,
+    "aimagname": "Дундговь",
+    "sumname": "Хулд",
+    "sindex": 665,
+    "sname": "Хулд",
+    "lat": 45.22567,
+    "lon": 105.5529,
+    "rasterheight": 1337.0
+  },
+  {
+    "aimag_id": 11,
+    "aimagname": "Завхан",
+    "sumname": "Дөрвөлжин",
+    "sindex": 219,
+    "sname": "Дөрвөлжин",
+    "lat": 47.6464,
+    "lon": 94.999,
+    "rasterheight": 1391.4
+  },
+  {
+    "aimag_id": 11,
+    "aimagname": "Завхан",
+    "sumname": "Нөмрөг",
+    "sindex": 220,
+    "sname": "Нөмрөг",
+    "lat": 48.87058,
+    "lon": 96.9616,
+    "rasterheight": 1847.7
+  },
+  {
+    "aimag_id": 11,
+    "aimagname": "Завхан",
+    "sumname": "Баянтэс",
+    "sindex": 221,
+    "sname": "Баян-Уул",
+    "lat": 49.70049,
+    "lon": 96.3633,
+    "rasterheight": 1420.3
+  },
+  {
+    "aimag_id": 11,
+    "aimagname": "Завхан",
+    "sumname": "Цэцэн-Уул",
+    "sindex": 224,
+    "sname": "Цэцэн-Уул",
+    "lat": 48.74804,
+    "lon": 96.0043,
+    "rasterheight": 1928.0
+  },
+  {
+    "aimag_id": 11,
+    "aimagname": "Завхан",
+    "sumname": "Тосонцэнгэл",
+    "sindex": 225,
+    "sname": "Тосонцэнгэл",
+    "lat": 48.76211,
+    "lon": 98.2654,
+    "rasterheight": 1722.5
+  },
+  {
+    "aimag_id": 11,
+    "aimagname": "Завхан",
+    "sumname": "Завханмандал",
+    "sindex": 227,
+    "sname": "Завханмандал",
+    "lat": 48.32226,
+    "lon": 95.1068,
+    "rasterheight": 1442.7
+  },
+  {
+    "aimag_id": 11,
+    "aimagname": "Завхан",
+    "sumname": "Улиастай",
+    "sindex": 272,
+    "sname": "Улиастай",
+    "lat": 47.72689,
+    "lon": 96.8472,
+    "rasterheight": 1775.7
+  },
+  {
+    "aimag_id": 11,
+    "aimagname": "Завхан",
+    "sumname": "Отгон",
+    "sindex": 274,
+    "sname": "Отгон",
+    "lat": 47.20964,
+    "lon": 97.6047,
+    "rasterheight": 2156.1
+  },
+  {
+    "aimag_id": 11,
+    "aimagname": "Завхан",
+    "sumname": "Алдархаан",
+    "sindex": 676,
+    "sname": "Алдархаан",
+    "lat": 47.64446,
+    "lon": 96.5326,
+    "rasterheight": 1659.6
+  },
+  {
+    "aimag_id": 11,
+    "aimagname": "Завхан",
+    "sumname": "Баянхайрхан",
+    "sindex": 677,
+    "sname": "Баянхайрхан",
+    "lat": 49.30407,
+    "lon": 96.3438,
+    "rasterheight": 1887.9
+  },
+  {
+    "aimag_id": 11,
+    "aimagname": "Завхан",
+    "sumname": "Идэр",
+    "sindex": 679,
+    "sname": "Идэр",
+    "lat": 48.21171,
+    "lon": 97.371,
+    "rasterheight": 1968.0
+  },
+  {
+    "aimag_id": 11,
+    "aimagname": "Завхан",
+    "sumname": "Их-Уул",
+    "sindex": 680,
+    "sname": "Их-Уул",
+    "lat": 48.72238,
+    "lon": 98.7955,
+    "rasterheight": 1655.0
+  },
+  {
+    "aimag_id": 11,
+    "aimagname": "Завхан",
+    "sumname": "Сантмаргаз",
+    "sindex": 683,
+    "sname": "Сантмаргаз",
+    "lat": 48.58323,
+    "lon": 95.4291,
+    "rasterheight": 1568.9
+  },
+  {
+    "aimag_id": 11,
+    "aimagname": "Завхан",
+    "sumname": "Сонгино",
+    "sindex": 684,
+    "sname": "Сонгино",
+    "lat": 49.02011,
+    "lon": 95.9232,
+    "rasterheight": 1878.3
+  },
+  {
+    "aimag_id": 11,
+    "aimagname": "Завхан",
+    "sumname": "Түдэвтэй",
+    "sindex": 685,
+    "sname": "Түдэвтэй",
+    "lat": 48.98649,
+    "lon": 96.5515,
+    "rasterheight": 1777.3
+  },
+  {
+    "aimag_id": 11,
+    "aimagname": "Завхан",
+    "sumname": "Тэлмэн",
+    "sindex": 686,
+    "sname": "Тэлмэн",
+    "lat": 48.64182,
+    "lon": 97.6157,
+    "rasterheight": 1796.0
+  },
+  {
+    "aimag_id": 11,
+    "aimagname": "Завхан",
+    "sumname": "Тэс",
+    "sindex": 687,
+    "sname": "Тэс",
+    "lat": 49.65192,
+    "lon": 95.7737,
+    "rasterheight": 1284.3
+  },
+  {
+    "aimag_id": 11,
+    "aimagname": "Завхан",
+    "sumname": "Ургамал",
+    "sindex": 688,
+    "sname": "Ургамал",
+    "lat": 48.51612,
+    "lon": 94.2865,
+    "rasterheight": 1273.6
+  },
+  {
+    "aimag_id": 11,
+    "aimagname": "Завхан",
+    "sumname": "Цагаанхайрхан",
+    "sindex": 689,
+    "sname": "Цагаанхайрхан",
+    "lat": 47.49468,
+    "lon": 96.8062,
+    "rasterheight": 1817.0
+  },
+  {
+    "aimag_id": 11,
+    "aimagname": "Завхан",
+    "sumname": "Цагаанчулуут",
+    "sindex": 690,
+    "sname": "Цагаанчулуут",
+    "lat": 47.11527,
+    "lon": 96.6638,
+    "rasterheight": 2142.0
+  },
+  {
+    "aimag_id": 11,
+    "aimagname": "Завхан",
+    "sumname": "Шилүүстэй",
+    "sindex": 691,
+    "sname": "Шилүүстэй",
+    "lat": 46.79749,
+    "lon": 97.1915,
+    "rasterheight": 2163.7
+  },
+  {
+    "aimag_id": 11,
+    "aimagname": "Завхан",
+    "sumname": "Эрдэнэхайрхан",
+    "sindex": 692,
+    "sname": "Эрдэнэхайрхан",
+    "lat": 48.12792,
+    "lon": 95.7126,
+    "rasterheight": 1885.7
+  },
+  {
+    "aimag_id": 11,
+    "aimagname": "Завхан",
+    "sumname": "Яруу",
+    "sindex": 693,
+    "sname": "Яруу",
+    "lat": 48.11277,
+    "lon": 96.7699,
+    "rasterheight": 2097.0
+  },
+  {
+    "aimag_id": 12,
+    "aimagname": "Орхон",
+    "sumname": "Жаргалант",
+    "sindex": 19,
+    "sname": "Улаантолгой",
+    "lat": 49.08649,
+    "lon": 104.4068,
+    "rasterheight": 1052.0
+  },
+  {
+    "aimag_id": 12,
+    "aimagname": "Орхон",
+    "sumname": "Баян-Өндөр",
+    "sindex": 236,
+    "sname": "Эрдэнэт-Овоо",
+    "lat": 49.0371,
+    "lon": 104.0867,
+    "rasterheight": 1300.1
+  },
+  {
+    "aimag_id": 13,
+    "aimagname": "Өвөрхангай",
+    "sumname": "Хужирт",
+    "sindex": 285,
+    "sname": "Хужирт",
+    "lat": 46.89958,
+    "lon": 102.7784,
+    "rasterheight": 1665.0
+  },
+  {
+    "aimag_id": 13,
+    "aimagname": "Өвөрхангай",
+    "sumname": "Арвайхээр",
+    "sindex": 288,
+    "sname": "Арвайхээр",
+    "lat": 46.25884,
+    "lon": 102.789,
+    "rasterheight": 1815.0
+  },
+  {
+    "aimag_id": 13,
+    "aimagname": "Өвөрхангай",
+    "sumname": "Баян-Өндөр",
+    "sindex": 289,
+    "sname": "Баян-Өндөр",
+    "lat": 46.49814,
+    "lon": 104.112,
+    "rasterheight": 1627.0
+  },
+  {
+    "aimag_id": 13,
+    "aimagname": "Өвөрхангай",
+    "sumname": "Хархорин",
+    "sindex": 330,
+    "sname": "Хархорин",
+    "lat": 47.19446,
+    "lon": 102.8297,
+    "rasterheight": 1478.0
+  },
+  {
+    "aimag_id": 13,
+    "aimagname": "Өвөрхангай",
+    "sumname": "Баруунбаян-Улаан",
+    "sindex": 331,
+    "sname": "Баруунбаян-Улаан",
+    "lat": 45.17833,
+    "lon": 101.4133,
+    "rasterheight": 1260.0
+  },
+  {
+    "aimag_id": 13,
+    "aimagname": "Өвөрхангай",
+    "sumname": "Төгрөг",
+    "sindex": 332,
+    "sname": "Төгрөг",
+    "lat": 45.53886,
+    "lon": 102.9989,
+    "rasterheight": 1415.0
+  },
+  {
+    "aimag_id": 13,
+    "aimagname": "Өвөрхангай",
+    "sumname": "Богд",
+    "sindex": 338,
+    "sname": "Богд",
+    "lat": 44.67415,
+    "lon": 102.1755,
+    "rasterheight": 1522.0
+  },
+  {
+    "aimag_id": 13,
+    "aimagname": "Өвөрхангай",
+    "sumname": "Батөлзий",
+    "sindex": 707,
+    "sname": "Бат-Өлзий",
+    "lat": 46.81336,
+    "lon": 102.2421,
+    "rasterheight": 1670.0
+  },
+  {
+    "aimag_id": 13,
+    "aimagname": "Өвөрхангай",
+    "sumname": "Баянгол",
+    "sindex": 708,
+    "sname": "Баянгол",
+    "lat": 45.8073,
+    "lon": 103.4454,
+    "rasterheight": 1460.0
+  },
+  {
+    "aimag_id": 13,
+    "aimagname": "Өвөрхангай",
+    "sumname": "Бүрд",
+    "sindex": 710,
+    "sname": "Бүрд",
+    "lat": 46.98367,
+    "lon": 103.7929,
+    "rasterheight": 1500.0
+  },
+  {
+    "aimag_id": 13,
+    "aimagname": "Өвөрхангай",
+    "sumname": "Гучинус",
+    "sindex": 711,
+    "sname": "Гучин-Ус",
+    "lat": 45.463,
+    "lon": 102.4247,
+    "rasterheight": 1476.0
+  },
+  {
+    "aimag_id": 13,
+    "aimagname": "Өвөрхангай",
+    "sumname": "Есөнзүйл",
+    "sindex": 712,
+    "sname": "Зүйл",
+    "lat": 46.76158,
+    "lon": 103.513,
+    "rasterheight": 1744.0
+  },
+  {
+    "aimag_id": 13,
+    "aimagname": "Өвөрхангай",
+    "sumname": "Зүүнбаян-Улаан",
+    "sindex": 713,
+    "sname": "Зүүнбаян-Улаан",
+    "lat": 46.52594,
+    "lon": 102.5934,
+    "rasterheight": 1883.0
+  },
+  {
+    "aimag_id": 13,
+    "aimagname": "Өвөрхангай",
+    "sumname": "Нарийнтээл",
+    "sindex": 714,
+    "sname": "Нарийнтээл",
+    "lat": 45.96086,
+    "lon": 101.4533,
+    "rasterheight": 1832.0
+  },
+  {
+    "aimag_id": 13,
+    "aimagname": "Өвөрхангай",
+    "sumname": "Өлзийт",
+    "sindex": 715,
+    "sname": "Баруунхайрхан",
+    "lat": 46.6134,
+    "lon": 103.5474,
+    "rasterheight": 1865.0
+  },
+  {
+    "aimag_id": 13,
+    "aimagname": "Өвөрхангай",
+    "sumname": "Сант",
+    "sindex": 716,
+    "sname": "Сант",
+    "lat": 46.09484,
+    "lon": 103.839,
+    "rasterheight": 1525.0
+  },
+  {
+    "aimag_id": 13,
+    "aimagname": "Өвөрхангай",
+    "sumname": "Уянга",
+    "sindex": 719,
+    "sname": "Уянга",
+    "lat": 46.46255,
+    "lon": 102.2841,
+    "rasterheight": 1996.0
+  },
+  {
+    "aimag_id": 13,
+    "aimagname": "Өвөрхангай",
+    "sumname": "Хайрхан-Дулаан",
+    "sindex": 720,
+    "sname": "Хайрхандулаан",
+    "lat": 45.96165,
+    "lon": 102.0559,
+    "rasterheight": 1888.0
+  },
+  {
+    "aimag_id": 14,
+    "aimagname": "Өмнөговь",
+    "sumname": "Булган",
+    "sindex": 339,
+    "sname": "Сайхан",
+    "lat": 44.09611,
+    "lon": 103.5369,
+    "rasterheight": 1291.0
+  },
+  {
+    "aimag_id": 14,
+    "aimagname": "Өмнөговь",
+    "sumname": "Цогт-Овоо",
+    "sindex": 347,
+    "sname": "Цогт-Овоо",
+    "lat": 44.42319,
+    "lon": 105.3168,
+    "rasterheight": 1291.0
+  },
+  {
+    "aimag_id": 14,
+    "aimagname": "Өмнөговь",
+    "sumname": "Даланзадгад",
+    "sindex": 373,
+    "sname": "Даланзадгад",
+    "lat": 43.57722,
+    "lon": 104.4181,
+    "rasterheight": 1462.0
+  },
+  {
+    "aimag_id": 14,
+    "aimagname": "Өмнөговь",
+    "sumname": "Гурвантэс",
+    "sindex": 374,
+    "sname": "Гурвантэс",
+    "lat": 43.38637,
+    "lon": 101.0736,
+    "rasterheight": 1721.0
+  },
+  {
+    "aimag_id": 14,
+    "aimagname": "Өмнөговь",
+    "sumname": "Манлай",
+    "sindex": 382,
+    "sname": "Манлай",
+    "lat": 44.13877,
+    "lon": 107.4489,
+    "rasterheight": 1300.0
+  },
+  {
+    "aimag_id": 14,
+    "aimagname": "Өмнөговь",
+    "sumname": "Ханбогд",
+    "sindex": 385,
+    "sname": "Ханбогд",
+    "lat": 43.19575,
+    "lon": 107.1935,
+    "rasterheight": 1109.0
+  },
+  {
+    "aimag_id": 14,
+    "aimagname": "Өмнөговь",
+    "sumname": "Баяндалай",
+    "sindex": 731,
+    "sname": "Баяндалай",
+    "lat": 43.49046,
+    "lon": 103.5231,
+    "rasterheight": 1552.0
+  },
+  {
+    "aimag_id": 14,
+    "aimagname": "Өмнөговь",
+    "sumname": "Баян-Овоо",
+    "sindex": 732,
+    "sname": "Баян-Овоо",
+    "lat": 42.97081,
+    "lon": 106.2058,
+    "rasterheight": 1180.0
+  },
+  {
+    "aimag_id": 14,
+    "aimagname": "Өмнөговь",
+    "sumname": "Мандал-Овоо",
+    "sindex": 733,
+    "sname": "Мандал-Овоо",
+    "lat": 44.65636,
+    "lon": 104.0568,
+    "rasterheight": 1070.0
+  },
+  {
+    "aimag_id": 14,
+    "aimagname": "Өмнөговь",
+    "sumname": "Ноён",
+    "sindex": 735,
+    "sname": "Ноён",
+    "lat": 43.14836,
+    "lon": 102.1311,
+    "rasterheight": 1866.0
+  },
+  {
+    "aimag_id": 14,
+    "aimagname": "Өмнөговь",
+    "sumname": "Номгон",
+    "sindex": 736,
+    "sname": "Номгон",
+    "lat": 42.90253,
+    "lon": 105.2201,
+    "rasterheight": 1482.0
+  },
+  {
+    "aimag_id": 14,
+    "aimagname": "Өмнөговь",
+    "sumname": "Сэврэй",
+    "sindex": 737,
+    "sname": "Сэврэй",
+    "lat": 43.96846,
+    "lon": 102.3097,
+    "rasterheight": 1702.0
+  },
+  {
+    "aimag_id": 14,
+    "aimagname": "Өмнөговь",
+    "sumname": "Хүрмэн",
+    "sindex": 739,
+    "sname": "Хүрмэн",
+    "lat": 43.30856,
+    "lon": 104.07,
+    "rasterheight": 1823.0
+  },
+  {
+    "aimag_id": 14,
+    "aimagname": "Өмнөговь",
+    "sumname": "Цогтцэций",
+    "sindex": 740,
+    "sname": "Цогтцэций",
+    "lat": 43.70446,
+    "lon": 105.9663,
+    "rasterheight": 1476.0
+  },
+  {
+    "aimag_id": 15,
+    "aimagname": "Сүхбаатар",
+    "sumname": "Баруун-Урт",
+    "sindex": 305,
+    "sname": "Баруун-Урт",
+    "lat": 46.68969,
+    "lon": 113.2865,
+    "rasterheight": 976.0
+  },
+  {
+    "aimag_id": 15,
+    "aimagname": "Сүхбаатар",
+    "sumname": "Эрдэнэцагаан",
+    "sindex": 317,
+    "sname": "Эрдэнэцагаан",
+    "lat": 45.92879,
+    "lon": 115.3762,
+    "rasterheight": 1070.0
+  },
+  {
+    "aimag_id": 15,
+    "aimagname": "Сүхбаатар",
+    "sumname": "Баяндэлгэр",
+    "sindex": 352,
+    "sname": "Баяндэлгэр",
+    "lat": 45.74858,
+    "lon": 112.3561,
+    "rasterheight": 1107.8
+  },
+  {
+    "aimag_id": 15,
+    "aimagname": "Сүхбаатар",
+    "sumname": "Дарьганга",
+    "sindex": 356,
+    "sname": "Дарьганга",
+    "lat": 45.32141,
+    "lon": 113.8462,
+    "rasterheight": 1244.0
+  },
+  {
+    "aimag_id": 15,
+    "aimagname": "Сүхбаатар",
+    "sumname": "Асгат",
+    "sindex": 751,
+    "sname": "Асгат",
+    "lat": 46.38524,
+    "lon": 113.5772,
+    "rasterheight": 1050.0
+  },
+  {
+    "aimag_id": 15,
+    "aimagname": "Сүхбаатар",
+    "sumname": "Мөнххаан",
+    "sindex": 753,
+    "sname": "Мөнххаан",
+    "lat": 46.99342,
+    "lon": 112.0516,
+    "rasterheight": 1225.0
+  },
+  {
+    "aimag_id": 15,
+    "aimagname": "Сүхбаатар",
+    "sumname": "Наран",
+    "sindex": 754,
+    "sname": "Наран",
+    "lat": 45.14659,
+    "lon": 113.6759,
+    "rasterheight": 1250.0
+  },
+  {
+    "aimag_id": 15,
+    "aimagname": "Сүхбаатар",
+    "sumname": "Онгон",
+    "sindex": 755,
+    "sname": "Онгон",
+    "lat": 45.37353,
+    "lon": 113.1299,
+    "rasterheight": 1040.0
+  },
+  {
+    "aimag_id": 15,
+    "aimagname": "Сүхбаатар",
+    "sumname": "Сүхбаатар",
+    "sindex": 756,
+    "sname": "Сүхбаатар",
+    "lat": 46.78681,
+    "lon": 113.8771,
+    "rasterheight": 990.0
+  },
+  {
+    "aimag_id": 15,
+    "aimagname": "Сүхбаатар",
+    "sumname": "Түвшинширээ",
+    "sindex": 757,
+    "sname": "Түвшинширээ",
+    "lat": 46.22841,
+    "lon": 111.8055,
+    "rasterheight": 1111.0
+  },
+  {
+    "aimag_id": 15,
+    "aimagname": "Сүхбаатар",
+    "sumname": "Түмэнцогт",
+    "sindex": 758,
+    "sname": "Түмэнцогт",
+    "lat": 47.59698,
+    "lon": 112.3506,
+    "rasterheight": 987.0
+  },
+  {
+    "aimag_id": 15,
+    "aimagname": "Сүхбаатар",
+    "sumname": "Уулбаян",
+    "sindex": 759,
+    "sname": "Уулбаян",
+    "lat": 46.51008,
+    "lon": 112.3544,
+    "rasterheight": 1035.0
+  },
+  {
+    "aimag_id": 15,
+    "aimagname": "Сүхбаатар",
+    "sumname": "Халзан",
+    "sindex": 760,
+    "sname": "Халзан",
+    "lat": 46.18733,
+    "lon": 112.945,
+    "rasterheight": 1043.0
+  },
+  {
+    "aimag_id": 16,
+    "aimagname": "Сэлэнгэ",
+    "sumname": "Цагааннуур",
+    "sindex": 209,
+    "sname": "Цагааннуур",
+    "lat": 50.11059,
+    "lon": 105.4519,
+    "rasterheight": 784.6
+  },
+  {
+    "aimag_id": 16,
+    "aimagname": "Сэлэнгэ",
+    "sumname": "Сүхбаатар",
+    "sindex": 240,
+    "sname": "Сүхбаатар",
+    "lat": 50.24301,
+    "lon": 106.1727,
+    "rasterheight": 628.4
+  },
+  {
+    "aimag_id": 16,
+    "aimagname": "Сэлэнгэ",
+    "sumname": "Баянгол",
+    "sindex": 241,
+    "sname": "Баруунхараа",
+    "lat": 48.91319,
+    "lon": 106.0896,
+    "rasterheight": 808.5
+  },
+  {
+    "aimag_id": 16,
+    "aimagname": "Сэлэнгэ",
+    "sumname": "Орхон",
+    "sindex": 242,
+    "sname": "Орхон",
+    "lat": 49.14363,
+    "lon": 105.4021,
+    "rasterheight": 753.4
+  },
+  {
+    "aimag_id": 16,
+    "aimagname": "Сэлэнгэ",
+    "sumname": "Ерөө",
+    "sindex": 243,
+    "sname": "Ерөө",
+    "lat": 49.74917,
+    "lon": 106.6611,
+    "rasterheight": 674.5
+  },
+  {
+    "aimag_id": 16,
+    "aimagname": "Сэлэнгэ",
+    "sumname": "Орхонтуул",
+    "sindex": 245,
+    "sname": "Орхонтуул",
+    "lat": 48.08544,
+    "lon": 104.8064,
+    "rasterheight": 820.7
+  },
+  {
+    "aimag_id": 16,
+    "aimagname": "Сэлэнгэ",
+    "sumname": "Мандал",
+    "sindex": 253,
+    "sname": "Зүүнхараа",
+    "lat": 48.86049,
+    "lon": 106.4431,
+    "rasterheight": 882.5
+  },
+  {
+    "aimag_id": 16,
+    "aimagname": "Сэлэнгэ",
+    "sumname": "Баруунбүрэн",
+    "sindex": 772,
+    "sname": "Баруунбүрэн",
+    "lat": 49.16889,
+    "lon": 104.8423,
+    "rasterheight": 910.3
+  },
+  {
+    "aimag_id": 16,
+    "aimagname": "Сэлэнгэ",
+    "sumname": "Зүүнбүрэн",
+    "sindex": 774,
+    "sname": "Зүүнбүрэн",
+    "lat": 50.07146,
+    "lon": 105.8738,
+    "rasterheight": 629.5
+  },
+  {
+    "aimag_id": 16,
+    "aimagname": "Сэлэнгэ",
+    "sumname": "Түшиг",
+    "sindex": 779,
+    "sname": "Зэлтэр",
+    "lat": 50.32132,
+    "lon": 105.0463,
+    "rasterheight": 747.9
+  },
+  {
+    "aimag_id": 16,
+    "aimagname": "Сэлэнгэ",
+    "sumname": "Хүдэр",
+    "sindex": 780,
+    "sname": "Хүдэр",
+    "lat": 49.77446,
+    "lon": 107.5216,
+    "rasterheight": 699.1
+  },
+  {
+    "aimag_id": 16,
+    "aimagname": "Сэлэнгэ",
+    "sumname": "Бугант",
+    "sindex": 783,
+    "sname": "Бугант",
+    "lat": 49.42072,
+    "lon": 107.2795,
+    "rasterheight": 794.0
+  },
+  {
+    "aimag_id": 16,
+    "aimagname": "Сэлэнгэ",
+    "sumname": "Хушаат",
+    "sindex": 784,
+    "sname": "Хушаат",
+    "lat": 49.67576,
+    "lon": 105.821,
+    "rasterheight": 665.2
+  },
+  {
+    "aimag_id": 17,
+    "aimagname": "Төв",
+    "sumname": "Баянчандмань",
+    "sindex": 246,
+    "sname": "Баянчандмань",
+    "lat": 48.22759,
+    "lon": 106.2854,
+    "rasterheight": 1257.4
+  },
+  {
+    "aimag_id": 17,
+    "aimagname": "Төв",
+    "sumname": "Угтаалцайдам",
+    "sindex": 247,
+    "sname": "Угтаал",
+    "lat": 48.25865,
+    "lon": 105.4042,
+    "rasterheight": 1143.0
+  },
+  {
+    "aimag_id": 17,
+    "aimagname": "Төв",
+    "sumname": "Мөнгөнморьт",
+    "sindex": 250,
+    "sname": "Мөнгөнморьт",
+    "lat": 48.2057,
+    "lon": 108.4862,
+    "rasterheight": 1429.1
+  },
+  {
+    "aimag_id": 17,
+    "aimagname": "Төв",
+    "sumname": "Жаргалант",
+    "sindex": 252,
+    "sname": "Жаргалант",
+    "lat": 48.54543,
+    "lon": 105.882,
+    "rasterheight": 1007.0
+  },
+  {
+    "aimag_id": 17,
+    "aimagname": "Төв",
+    "sumname": "Эрдэнэсант",
+    "sindex": 286,
+    "sname": "Эрдэнэсант",
+    "lat": 47.35153,
+    "lon": 104.4918,
+    "rasterheight": 1358.1
+  },
+  {
+    "aimag_id": 17,
+    "aimagname": "Төв",
+    "sumname": "Зуунмод",
+    "sindex": 290,
+    "sname": "Зуунмод",
+    "lat": 47.72649,
+    "lon": 106.9361,
+    "rasterheight": 1549.0
+  },
+  {
+    "aimag_id": 17,
+    "aimagname": "Төв",
+    "sumname": "Баян",
+    "sindex": 294,
+    "sname": "Мааньт",
+    "lat": 47.27566,
+    "lon": 107.5394,
+    "rasterheight": 1425.0
+  },
+  {
+    "aimag_id": 17,
+    "aimagname": "Төв",
+    "sumname": "Лүн",
+    "sindex": 297,
+    "sname": "Лүн",
+    "lat": 47.86707,
+    "lon": 105.2507,
+    "rasterheight": 1012.0
+  },
+  {
+    "aimag_id": 17,
+    "aimagname": "Төв",
+    "sumname": "Бүрэн",
+    "sindex": 340,
+    "sname": "Бүрэн",
+    "lat": 46.91736,
+    "lon": 105.0453,
+    "rasterheight": 1273.7
+  },
+  {
+    "aimag_id": 17,
+    "aimagname": "Төв",
+    "sumname": "Баян-Өнжүүл",
+    "sindex": 344,
+    "sname": "Баян-Өнжүүл",
+    "lat": 47.04001,
+    "lon": 105.9538,
+    "rasterheight": 1213.3
+  },
+  {
+    "aimag_id": 17,
+    "aimagname": "Төв",
+    "sumname": "Алтанбулаг",
+    "sindex": 370,
+    "sname": "Алтанбулаг",
+    "lat": 47.71455,
+    "lon": 106.4097,
+    "rasterheight": 1215.0
+  },
+  {
+    "aimag_id": 17,
+    "aimagname": "Төв",
+    "sumname": "Цээл",
+    "sindex": 793,
+    "sname": "Залуучууд",
+    "lat": 48.44981,
+    "lon": 105.3194,
+    "rasterheight": 1059.2
+  },
+  {
+    "aimag_id": 17,
+    "aimagname": "Төв",
+    "sumname": "Батсүмбэр",
+    "sindex": 794,
+    "sname": "Батсүмбэр",
+    "lat": 48.36438,
+    "lon": 106.7286,
+    "rasterheight": 1175.0
+  },
+  {
+    "aimag_id": 17,
+    "aimagname": "Төв",
+    "sumname": "Баянжаргалан",
+    "sindex": 796,
+    "sname": "Баянжаргалан",
+    "lat": 47.17857,
+    "lon": 108.2567,
+    "rasterheight": 1375.1
+  },
+  {
+    "aimag_id": 17,
+    "aimagname": "Төв",
+    "sumname": "Баянцагаан",
+    "sindex": 799,
+    "sname": "Баянцагаан",
+    "lat": 46.79471,
+    "lon": 107.1446,
+    "rasterheight": 1357.3
+  },
+  {
+    "aimag_id": 17,
+    "aimagname": "Төв",
+    "sumname": "Борнуур",
+    "sindex": 801,
+    "sname": "Борнуур",
+    "lat": 48.48755,
+    "lon": 106.262,
+    "rasterheight": 1020.0
+  },
+  {
+    "aimag_id": 17,
+    "aimagname": "Төв",
+    "sumname": "Дэлгэрхаан",
+    "sindex": 803,
+    "sname": "Дэлгэрхаан",
+    "lat": 46.6418,
+    "lon": 104.5635,
+    "rasterheight": 10188.0
+  },
+  {
+    "aimag_id": 17,
+    "aimagname": "Төв",
+    "sumname": "Заамар",
+    "sindex": 805,
+    "sname": "Заамар",
+    "lat": 48.23617,
+    "lon": 104.7697,
+    "rasterheight": 10000.0
+  },
+  {
+    "aimag_id": 17,
+    "aimagname": "Төв",
+    "sumname": "Өндөрширээт",
+    "sindex": 807,
+    "sname": "Өндөрширээт",
+    "lat": 47.44888,
+    "lon": 105.055,
+    "rasterheight": 1040.5
+  },
+  {
+    "aimag_id": 17,
+    "aimagname": "Төв",
+    "sumname": "Аргалант",
+    "sindex": 810,
+    "sname": "Нөхөрлөл",
+    "lat": 47.94693,
+    "lon": 105.8984,
+    "rasterheight": 1239.0
+  },
+  {
+    "aimag_id": 17,
+    "aimagname": "Төв",
+    "sumname": "Эрдэнэ",
+    "sindex": 811,
+    "sname": "Эрдэнэ",
+    "lat": 47.71384,
+    "lon": 107.7918,
+    "rasterheight": 1574.3
+  },
+  {
+    "aimag_id": 18,
+    "aimagname": "Увс",
+    "sumname": "Өндөрхангай",
+    "sindex": 191,
+    "sname": "Өндөрхангай",
+    "lat": 49.26808,
+    "lon": 94.8589,
+    "rasterheight": 1863.3
+  },
+  {
+    "aimag_id": 18,
+    "aimagname": "Увс",
+    "sumname": "Наранбулаг",
+    "sindex": 199,
+    "sname": "Наранбулаг",
+    "lat": 49.38372,
+    "lon": 92.5821,
+    "rasterheight": 1143.1
+  },
+  {
+    "aimag_id": 18,
+    "aimagname": "Увс",
+    "sumname": "Малчин",
+    "sindex": 201,
+    "sname": "Малчин",
+    "lat": 49.72886,
+    "lon": 93.2702,
+    "rasterheight": 1393.6
+  },
+  {
+    "aimag_id": 18,
+    "aimagname": "Увс",
+    "sumname": "Ховд",
+    "sindex": 204,
+    "sname": "Хөх толгойт",
+    "lat": 49.28182,
+    "lon": 90.9118,
+    "rasterheight": 1419.7
+  },
+  {
+    "aimag_id": 18,
+    "aimagname": "Увс",
+    "sumname": "Тэс",
+    "sindex": 211,
+    "sname": "Тэс",
+    "lat": 50.47844,
+    "lon": 93.5995,
+    "rasterheight": 799.7
+  },
+  {
+    "aimag_id": 18,
+    "aimagname": "Увс",
+    "sumname": "Улаангом",
+    "sindex": 212,
+    "sname": "Улаангом",
+    "lat": 49.97145,
+    "lon": 92.0778,
+    "rasterheight": 939.1
+  },
+  {
+    "aimag_id": 18,
+    "aimagname": "Увс",
+    "sumname": "Баруунтуруун",
+    "sindex": 213,
+    "sname": "Баруунтуруун",
+    "lat": 49.6585,
+    "lon": 94.4041,
+    "rasterheight": 1234.2
+  },
+  {
+    "aimag_id": 18,
+    "aimagname": "Увс",
+    "sumname": "Хар-Ус",
+    "sindex": 215,
+    "sname": "Өмнөговь",
+    "lat": 49.10479,
+    "lon": 91.7262,
+    "rasterheight": 1589.3
+  },
+  {
+    "aimag_id": 18,
+    "aimagname": "Увс",
+    "sumname": "Завхан",
+    "sindex": 216,
+    "sname": "Завхан",
+    "lat": 48.82399,
+    "lon": 93.0982,
+    "rasterheight": 1049.7
+  },
+  {
+    "aimag_id": 18,
+    "aimagname": "Увс",
+    "sumname": "Бөхмөрөн",
+    "sindex": 826,
+    "sname": "Бөхмөрөн",
+    "lat": 49.66964,
+    "lon": 90.2961,
+    "rasterheight": 1484.0
+  },
+  {
+    "aimag_id": 18,
+    "aimagname": "Увс",
+    "sumname": "Давст",
+    "sindex": 827,
+    "sname": "Давст",
+    "lat": 50.61769,
+    "lon": 92.399,
+    "rasterheight": 864.7
+  },
+  {
+    "aimag_id": 18,
+    "aimagname": "Увс",
+    "sumname": "Зүүнговь",
+    "sindex": 828,
+    "sname": "Зүүнговь",
+    "lat": 49.90896,
+    "lon": 93.7825,
+    "rasterheight": 1000.8
+  },
+  {
+    "aimag_id": 18,
+    "aimagname": "Увс",
+    "sumname": "Зүүнхангай",
+    "sindex": 829,
+    "sname": "Зүүнхангай",
+    "lat": 49.32372,
+    "lon": 95.2714,
+    "rasterheight": 1791.6
+  },
+  {
+    "aimag_id": 18,
+    "aimagname": "Увс",
+    "sumname": "Өлгий",
+    "sindex": 832,
+    "sname": "Өлгий",
+    "lat": 49.04197,
+    "lon": 92.0712,
+    "rasterheight": 1584.5
+  },
+  {
+    "aimag_id": 18,
+    "aimagname": "Увс",
+    "sumname": "Сагил",
+    "sindex": 834,
+    "sname": "Сагил",
+    "lat": 50.33781,
+    "lon": 91.6153,
+    "rasterheight": 1132.4
+  },
+  {
+    "aimag_id": 18,
+    "aimagname": "Увс",
+    "sumname": "Түргэн",
+    "sindex": 836,
+    "sname": "Түргэн",
+    "lat": 50.0971,
+    "lon": 91.6676,
+    "rasterheight": 1223.6
+  },
+  {
+    "aimag_id": 18,
+    "aimagname": "Увс",
+    "sumname": "Хяргас",
+    "sindex": 839,
+    "sname": "Хяргас",
+    "lat": 49.67518,
+    "lon": 93.7784,
+    "rasterheight": 1371.5
+  },
+  {
+    "aimag_id": 18,
+    "aimagname": "Увс",
+    "sumname": "Цагаанхайрхан",
+    "sindex": 840,
+    "sname": "Цагаанхайрхан",
+    "lat": 49.39826,
+    "lon": 94.2498,
+    "rasterheight": 1683.4
+  },
+  {
+    "aimag_id": 19,
+    "aimagname": "Нийслэл",
+    "sumname": "Налайх",
+    "sindex": 248,
+    "sname": "Тэрэлж",
+    "lat": 47.98866,
+    "lon": 107.4566,
+    "rasterheight": 1523.0
+  },
+  {
+    "aimag_id": 19,
+    "aimagname": "Нийслэл",
+    "sumname": "Баянзүрх",
+    "sindex": 249,
+    "sname": "Амгалан",
+    "lat": 47.91129,
+    "lon": 106.9971,
+    "rasterheight": 1314.5
+  },
+  {
+    "aimag_id": 19,
+    "aimagname": "Нийслэл",
+    "sumname": "Хан-Уул",
+    "sindex": 291,
+    "sname": "Буянт-Ухаа",
+    "lat": 47.84795,
+    "lon": 106.7546,
+    "rasterheight": 1271.4
+  },
+  {
+    "aimag_id": 19,
+    "aimagname": "Нийслэл",
+    "sumname": "Сонгинохайрхан",
+    "sindex": 292,
+    "sname": "Улаанбаатар",
+    "lat": 47.91873,
+    "lon": 106.8479,
+    "rasterheight": 1303.3
+  },
+  {
+    "aimag_id": 19,
+    "aimagname": "Нийслэл",
+    "sumname": "Багануур",
+    "sindex": 296,
+    "sname": "Багануур",
+    "lat": 47.80651,
+    "lon": 108.3389,
+    "rasterheight": 1375.0
+  },
+  {
+    "aimag_id": 19,
+    "aimagname": "Нийслэл",
+    "sumname": "Сонгинохайрхан",
+    "sindex": 941,
+    "sname": "Партизан",
+    "lat": 48.12589,
+    "lon": 106.627,
+    "rasterheight": 1321.0
+  },
+  {
+    "aimag_id": 19,
+    "aimagname": "Нийслэл",
+    "sumname": "Хан-Уул",
+    "sindex": 942,
+    "sname": "Өлзийт",
+    "lat": 47.79641,
+    "lon": 106.7031,
+    "rasterheight": 1370.0
+  },
+  {
+    "aimag_id": 20,
+    "aimagname": "Ховд",
+    "sumname": "Жаргалант",
+    "sindex": 218,
+    "sname": "Ховд",
+    "lat": 47.99591,
+    "lon": 91.6324,
+    "rasterheight": 1405.0
+  },
+  {
+    "aimag_id": 20,
+    "aimagname": "Ховд",
+    "sumname": "Мөнххайрхан",
+    "sindex": 260,
+    "sname": "Мөнххайрхан",
+    "lat": 47.06539,
+    "lon": 91.853,
+    "rasterheight": 2093.4
+  },
+  {
+    "aimag_id": 20,
+    "aimagname": "Ховд",
+    "sumname": "Зэрэг",
+    "sindex": 264,
+    "sname": "Зэрэг",
+    "lat": 47.10812,
+    "lon": 92.8373,
+    "rasterheight": 1152.6
+  },
+  {
+    "aimag_id": 20,
+    "aimagname": "Ховд",
+    "sumname": "Булган",
+    "sindex": 265,
+    "sname": "Байтаг",
+    "lat": 46.09449,
+    "lon": 91.5523,
+    "rasterheight": 1184.2
+  },
+  {
+    "aimag_id": 20,
+    "aimagname": "Ховд",
+    "sumname": "Мөст",
+    "sindex": 267,
+    "sname": "Мөст",
+    "lat": 46.69189,
+    "lon": 92.7988,
+    "rasterheight": 2027.7
+  },
+  {
+    "aimag_id": 20,
+    "aimagname": "Ховд",
+    "sumname": "Чандмань",
+    "sindex": 269,
+    "sname": "Чандмань",
+    "lat": 47.66419,
+    "lon": 92.8125,
+    "rasterheight": 1661.5
+  },
+  {
+    "aimag_id": 20,
+    "aimagname": "Ховд",
+    "sumname": "Цэцэг",
+    "sindex": 271,
+    "sname": "Цэцэг",
+    "lat": 46.59062,
+    "lon": 93.2721,
+    "rasterheight": 1717.2
+  },
+  {
+    "aimag_id": 20,
+    "aimagname": "Ховд",
+    "sumname": "Манхан",
+    "sindex": 361,
+    "sname": "Манхан",
+    "lat": 47.41938,
+    "lon": 92.2239,
+    "rasterheight": 1352.8
+  },
+  {
+    "aimag_id": 20,
+    "aimagname": "Ховд",
+    "sumname": "Ховд",
+    "sindex": 364,
+    "sname": "Дунд-Ус",
+    "lat": 48.1261,
+    "lon": 91.3734,
+    "rasterheight": 1711.5
+  },
+  {
+    "aimag_id": 20,
+    "aimagname": "Ховд",
+    "sumname": "Алтай",
+    "sindex": 851,
+    "sname": "Алтай",
+    "lat": 46.02435,
+    "lon": 92.5291,
+    "rasterheight": 1544.0
+  },
+  {
+    "aimag_id": 20,
+    "aimagname": "Ховд",
+    "sumname": "Дарви",
+    "sindex": 853,
+    "sname": "Дарви",
+    "lat": 46.93732,
+    "lon": 93.6123,
+    "rasterheight": 1472.7
+  },
+  {
+    "aimag_id": 20,
+    "aimagname": "Ховд",
+    "sumname": "Дуут",
+    "sindex": 854,
+    "sname": "Дуут",
+    "lat": 47.52104,
+    "lon": 91.625,
+    "rasterheight": 2282.3
+  },
+  {
+    "aimag_id": 20,
+    "aimagname": "Ховд",
+    "sumname": "Мянгад",
+    "sindex": 858,
+    "sname": "Мянгад",
+    "lat": 48.23786,
+    "lon": 91.9239,
+    "rasterheight": 1179.1
+  },
+  {
+    "aimag_id": 20,
+    "aimagname": "Ховд",
+    "sumname": "Үенч",
+    "sindex": 859,
+    "sname": "Үенч",
+    "lat": 46.06617,
+    "lon": 92.0388,
+    "rasterheight": 1419.9
+  },
+  {
+    "aimag_id": 20,
+    "aimagname": "Ховд",
+    "sumname": "Эрдэнэбүрэн",
+    "sindex": 863,
+    "sname": "Эрдэнэбүрэн",
+    "lat": 48.49877,
+    "lon": 91.4417,
+    "rasterheight": 1263.5
+  },
+  {
+    "aimag_id": 20,
+    "aimagname": "Ховд",
+    "sumname": "Дөргөн",
+    "sindex": 864,
+    "sname": "Дөргөн",
+    "lat": 48.33619,
+    "lon": 92.6258,
+    "rasterheight": 1183.4
+  },
+  {
+    "aimag_id": 21,
+    "aimagname": "Хөвсгөл",
+    "sumname": "Эрдэнэбулган",
+    "sindex": 202,
+    "sname": "Эрдэнэбулган",
+    "lat": 50.11891,
+    "lon": 101.5821,
+    "rasterheight": 1149.5
+  },
+  {
+    "aimag_id": 21,
+    "aimagname": "Хөвсгөл",
+    "sumname": "Рэнчинлхүмбэ",
+    "sindex": 203,
+    "sname": "Рэнчинлхүмбэ",
+    "lat": 51.11342,
+    "lon": 99.66757,
+    "rasterheight": 7942.0
+  },
+  {
+    "aimag_id": 21,
+    "aimagname": "Хөвсгөл",
+    "sumname": "Баянзүрх",
+    "sindex": 206,
+    "sname": "Баянзүрх",
+    "lat": 50.17872,
+    "lon": 98.97552,
+    "rasterheight": 1631.6
+  },
+  {
+    "aimag_id": 21,
+    "aimagname": "Хөвсгөл",
+    "sumname": "Хатгал",
+    "sindex": 207,
+    "sname": "Хатгал",
+    "lat": 50.43858,
+    "lon": 100.152,
+    "rasterheight": 14137.0
+  },
+  {
+    "aimag_id": 21,
+    "aimagname": "Хөвсгөл",
+    "sumname": "Цагаан-Үүр",
+    "sindex": 208,
+    "sname": "Цагаан-Үүр",
+    "lat": 50.55216,
+    "lon": 101.5153,
+    "rasterheight": 4971.9
+  },
+  {
+    "aimag_id": 21,
+    "aimagname": "Хөвсгөл",
+    "sumname": "Цэцэрлэг",
+    "sindex": 222,
+    "sname": "Чандагат",
+    "lat": 49.52207,
+    "lon": 97.73443,
+    "rasterheight": 1744.5
+  },
+  {
+    "aimag_id": 21,
+    "aimagname": "Хөвсгөл",
+    "sumname": "Рашаант",
+    "sindex": 223,
+    "sname": "Рашаант",
+    "lat": 49.12101,
+    "lon": 101.4564,
+    "rasterheight": 1385.0
+  },
+  {
+    "aimag_id": 21,
+    "aimagname": "Хөвсгөл",
+    "sumname": "Тариалан",
+    "sindex": 230,
+    "sname": "Тариалан",
+    "lat": 49.60914,
+    "lon": 101.9834,
+    "rasterheight": 1217.4
+  },
+  {
+    "aimag_id": 21,
+    "aimagname": "Хөвсгөл",
+    "sumname": "Мөрөн",
+    "sindex": 231,
+    "sname": "Мөрөн",
+    "lat": 49.63856,
+    "lon": 100.1668,
+    "rasterheight": 1291.0
+  },
+  {
+    "aimag_id": 21,
+    "aimagname": "Хөвсгөл",
+    "sumname": "Шинэ-Идэр",
+    "sindex": 234,
+    "sname": "Шинэ-Идэр",
+    "lat": 48.95005,
+    "lon": 99.53423,
+    "rasterheight": 1703.0
+  },
+  {
+    "aimag_id": 21,
+    "aimagname": "Хөвсгөл",
+    "sumname": "Жаргалант",
+    "sindex": 238,
+    "sname": "Жаргалант",
+    "lat": 48.58003,
+    "lon": 99.34692,
+    "rasterheight": 1577.1
+  },
+  {
+    "aimag_id": 21,
+    "aimagname": "Хөвсгөл",
+    "sumname": "Алаг-Эрдэнэ",
+    "sindex": 876,
+    "sname": "Алаг-Эрдэнэ",
+    "lat": 50.12018,
+    "lon": 100.0457,
+    "rasterheight": 1569.9
+  },
+  {
+    "aimag_id": 21,
+    "aimagname": "Хөвсгөл",
+    "sumname": "Арбулаг",
+    "sindex": 877,
+    "sname": "Арбулаг",
+    "lat": 49.91417,
+    "lon": 99.45046,
+    "rasterheight": 1888.0
+  },
+  {
+    "aimag_id": 21,
+    "aimagname": "Хөвсгөл",
+    "sumname": "Бүрэнтогтох",
+    "sindex": 879,
+    "sname": "Бүрэнтогтох",
+    "lat": 49.62128,
+    "lon": 99.58694,
+    "rasterheight": 1338.0
+  },
+  {
+    "aimag_id": 21,
+    "aimagname": "Хөвсгөл",
+    "sumname": "Галт",
+    "sindex": 880,
+    "sname": "Галт",
+    "lat": 48.76848,
+    "lon": 99.87518,
+    "rasterheight": 1487.0
+  },
+  {
+    "aimag_id": 21,
+    "aimagname": "Хөвсгөл",
+    "sumname": "Их-уул",
+    "sindex": 882,
+    "sname": "Их-уул",
+    "lat": 49.43915,
+    "lon": 101.4619,
+    "rasterheight": 1054.0
+  },
+  {
+    "aimag_id": 21,
+    "aimagname": "Хөвсгөл",
+    "sumname": "Тосонцэнгэл",
+    "sindex": 884,
+    "sname": "Тосонцэнгэл",
+    "lat": 49.47979,
+    "lon": 100.9011,
+    "rasterheight": 1311.0
+  },
+  {
+    "aimag_id": 21,
+    "aimagname": "Хөвсгөл",
+    "sumname": "Төмөрбулаг",
+    "sindex": 885,
+    "sname": "Төмөрбулаг",
+    "lat": 49.29153,
+    "lon": 100.2515,
+    "rasterheight": 1432.6
+  },
+  {
+    "aimag_id": 21,
+    "aimagname": "Хөвсгөл",
+    "sumname": "Түнэл",
+    "sindex": 886,
+    "sname": "Түнэл",
+    "lat": 49.85793,
+    "lon": 100.6316,
+    "rasterheight": 1510.5
+  },
+  {
+    "aimag_id": 21,
+    "aimagname": "Хөвсгөл",
+    "sumname": "Улаан-уул",
+    "sindex": 887,
+    "sname": "Улаан-уул",
+    "lat": 50.67791,
+    "lon": 99.2291,
+    "rasterheight": 1683.5
+  },
+  {
+    "aimag_id": 21,
+    "aimagname": "Хөвсгөл",
+    "sumname": "Ханх",
+    "sindex": 888,
+    "sname": "Ханх",
+    "lat": 51.49564,
+    "lon": 100.6707,
+    "rasterheight": 1653.6
+  },
+  {
+    "aimag_id": 21,
+    "aimagname": "Хөвсгөл",
+    "sumname": "Цагаан-уул",
+    "sindex": 889,
+    "sname": "Цагаан-уул",
+    "lat": 49.60327,
+    "lon": 98.6929,
+    "rasterheight": 1828.5
+  },
+  {
+    "aimag_id": 21,
+    "aimagname": "Хөвсгөл",
+    "sumname": "Чандмань-өндөр",
+    "sindex": 891,
+    "sname": "Чандмань-өндөр",
+    "lat": 50.47631,
+    "lon": 100.9266,
+    "rasterheight": 1284.2
+  },
+  {
+    "aimag_id": 21,
+    "aimagname": "Хөвсгөл",
+    "sumname": "Цагааннуур",
+    "sindex": 893,
+    "sname": "Цагааннуур",
+    "lat": 51.36434,
+    "lon": 99.346,
+    "rasterheight": 1563.3
+  },
+  {
+    "aimag_id": 22,
+    "aimagname": "Хэнтий",
+    "sumname": "Дадал",
+    "sindex": 254,
+    "sname": "Дадал",
+    "lat": 49.02225,
+    "lon": 111.6117,
+    "rasterheight": 994.0
+  },
+  {
+    "aimag_id": 22,
+    "aimagname": "Хэнтий",
+    "sumname": "Биндэр",
+    "sindex": 257,
+    "sname": "Биндэр",
+    "lat": 48.61608,
+    "lon": 110.599,
+    "rasterheight": 1050.0
+  },
+  {
+    "aimag_id": 22,
+    "aimagname": "Хэнтий",
+    "sumname": "Дархан",
+    "sindex": 299,
+    "sname": "Оргил",
+    "lat": 46.63178,
+    "lon": 109.4094,
+    "rasterheight": 1273.0
+  },
+  {
+    "aimag_id": 22,
+    "aimagname": "Хэнтий",
+    "sumname": "Дэлгэрхаан",
+    "sindex": 301,
+    "sname": "Хэрлэнбаян",
+    "lat": 47.21364,
+    "lon": 108.7377,
+    "rasterheight": 1250.0
+  },
+  {
+    "aimag_id": 22,
+    "aimagname": "Хэнтий",
+    "sumname": "Баян-Овоо",
+    "sindex": 302,
+    "sname": "Баян-Овоо",
+    "lat": 47.78583,
+    "lon": 112.1108,
+    "rasterheight": 927.0
+  },
+  {
+    "aimag_id": 22,
+    "aimagname": "Хэнтий",
+    "sumname": "Өмнөдэлгэр",
+    "sindex": 303,
+    "sname": "Өмнөдэлгэр",
+    "lat": 47.89225,
+    "lon": 109.8022,
+    "rasterheight": 1346.0
+  },
+  {
+    "aimag_id": 22,
+    "aimagname": "Хэнтий",
+    "sumname": "Хэрлэн",
+    "sindex": 304,
+    "sname": "Өндөрхаан",
+    "lat": 47.30839,
+    "lon": 110.6244,
+    "rasterheight": 1033.0
+  },
+  {
+    "aimag_id": 22,
+    "aimagname": "Хэнтий",
+    "sumname": "Галшар",
+    "sindex": 307,
+    "sname": "Галшар",
+    "lat": 46.24314,
+    "lon": 110.8413,
+    "rasterheight": 1181.0
+  },
+  {
+    "aimag_id": 22,
+    "aimagname": "Хэнтий",
+    "sumname": "Батноров",
+    "sindex": 906,
+    "sname": "Батноров",
+    "lat": 47.94708,
+    "lon": 111.5041,
+    "rasterheight": 1050.0
+  },
+  {
+    "aimag_id": 22,
+    "aimagname": "Хэнтий",
+    "sumname": "Батширээт",
+    "sindex": 907,
+    "sname": "Батширээт",
+    "lat": 48.68986,
+    "lon": 110.1694,
+    "rasterheight": 1117.0
+  },
+  {
+    "aimag_id": 22,
+    "aimagname": "Хэнтий",
+    "sumname": "Баян-Адрага",
+    "sindex": 908,
+    "sname": "Баян-Адрага",
+    "lat": 48.5515,
+    "lon": 111.0718,
+    "rasterheight": 1032.0
+  },
+  {
+    "aimag_id": 22,
+    "aimagname": "Хэнтий",
+    "sumname": "Баянмөнх",
+    "sindex": 909,
+    "sname": "Баянмөнх",
+    "lat": 46.89922,
+    "lon": 109.7566,
+    "rasterheight": 1112.0
+  },
+  {
+    "aimag_id": 22,
+    "aimagname": "Хэнтий",
+    "sumname": "Дэлгэрхаан",
+    "sindex": 912,
+    "sname": "Дэлгэрхаан",
+    "lat": 47.1815,
+    "lon": 109.1904,
+    "rasterheight": 1244.0
+  },
+  {
+    "aimag_id": 22,
+    "aimagname": "Хэнтий",
+    "sumname": "Жаргалтхаан",
+    "sindex": 913,
+    "sname": "Жаргалтхаан",
+    "lat": 47.48686,
+    "lon": 109.4733,
+    "rasterheight": 1339.0
+  },
+  {
+    "aimag_id": 22,
+    "aimagname": "Хэнтий",
+    "sumname": "Норовлин",
+    "sindex": 915,
+    "sname": "Норовлин",
+    "lat": 48.69164,
+    "lon": 111.9872,
+    "rasterheight": 1032.0
+  },
+  {
+    "aimag_id": 22,
+    "aimagname": "Хэнтий",
+    "sumname": "Өлзийт",
+    "sindex": 916,
+    "sname": "Өлзийт",
+    "lat": 47.50781,
+    "lon": 110.1835,
+    "rasterheight": 1136.0
+  },
+  {
+    "aimag_id": 22,
+    "aimagname": "Хэнтий",
+    "sumname": "Цэнхэрмандал",
+    "sindex": 918,
+    "sname": "Цэнхэрмандал",
+    "lat": 47.7475,
+    "lon": 109.0561,
+    "rasterheight": 1434.0
+  },
+  {
+    "aimag_id": 22,
+    "aimagname": "Хэнтий",
+    "sumname": "Гурванбаян",
+    "sindex": 919,
+    "sname": "Гурванбаян",
+    "lat": 48.18472,
+    "lon": 110.3228,
+    "rasterheight": 1205.0
+  },
+  {
+    "aimag_id": 1,
+    "aimagname": "Архангай",
+    "sumname": "Тариат",
+    "sindex": 229,
+    "sname": "Тариат",
+    "lat": 48.15685,
+    "lon": 99.8767,
+    "rasterheight": 2059.5
+  },
+  {
+    "aimag_id": 1,
+    "aimagname": "Архангай",
+    "sumname": "Эрдэнэмандал",
+    "sindex": 237,
+    "sname": "Эрдэнэмандал",
+    "lat": 48.52905,
+    "lon": 101.3679,
+    "rasterheight": 1508.7
+  },
+  {
+    "aimag_id": 1,
+    "aimagname": "Архангай",
+    "sumname": "Төвшрүүлэх",
+    "sindex": 281,
+    "sname": "Төвшрүүлэх",
+    "lat": 47.3867,
+    "lon": 101.9085,
+    "rasterheight": 1617.8
+  },
+  {
+    "aimag_id": 1,
+    "aimagname": "Архангай",
+    "sumname": "Эрдэнэбулган",
+    "sindex": 282,
+    "sname": "Цэцэрлэг",
+    "lat": 47.47117,
+    "lon": 101.4628,
+    "rasterheight": 1690.6
+  },
+  {
+    "aimag_id": 1,
+    "aimagname": "Архангай",
+    "sumname": "Батцэнгэл",
+    "sindex": 501,
+    "sname": "Батцэнгэл",
+    "lat": 47.79331,
+    "lon": 101.9625,
+    "rasterheight": 1427.2
+  }
+]
